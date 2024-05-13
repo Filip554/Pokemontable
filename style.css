@@ -1,0 +1,11 @@
+.striped {
+    background-color: lightgray;
+  }
+  
+  .striped td {
+    background-color: lightgray;
+  }
+  
+  td.highlighted {
+    background-color: yellow;
+  }
